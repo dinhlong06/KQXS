@@ -1,14 +1,15 @@
-# Them thong tin ket qua xo so vao file excel
+# 🌟 Thêm Thông Tin Kết Quả Xổ Số Vào File Excel
 
-**Mo ta**  
-Giup nguoi dung copy nhanh ket qua xo so cua cac ngay gan nhat sau do chen vao file excel
+## 💡 Giới Thiệu
+Công cụ giúp người dùng nhanh chóng thu thập kết quả xổ số từ các ngày gần nhất và tự động chèn vào file Excel.
 
-# Chuc nang chinh:
-Thu nhap du lieu ket qua xo so tu dong  
-Cap nhat theo thoi gian thuc (moi 5s)  
-Khi cap nhat xong tu dong ket thuc 
+## ✨ Tính Năng Chính
+- 🔄 Thu thập dữ liệu kết quả xổ số tự động.
+- ⏳ Cập nhật theo thời gian thực (mỗi 5 giây).
+- ✅ Tự động kết thúc khi hoàn thành cập nhật.
 
-# Cach cai dat va su dung:
-git clone https://github.com/dinhlong06/KQXS.git  
-cd KQXS  
-python main.py
+## 💻 Cách Cài Đặt & Sử Dụng
+
+### 1. Cài đặt
+Trên terminal hoặc command prompt, chạy các lệnh sau:
+
